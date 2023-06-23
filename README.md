@@ -12,9 +12,9 @@ Conducted thorough exploratory data analysis to understand attrition patterns, s
 Developed a comprehensive dashboard using Tableau to present the analysis findings visually and intuitively.
 
 # Summary
-1.**Attrition Rates:** Determined that the overall attrition rate in the company is 16.16%, with the highest attrition observed in the Sales department (20.72%), followed by Human Resources (19.05%), and the lowest in the Technology department (13.85%).
+1. **Attrition Rates:** Determined that the overall attrition rate in the company is 16.16%, with the highest attrition observed in the Sales department (20.72%), followed by Human Resources (19.05%), and the lowest in the Technology department (13.85%).
 
-2.**Salary Disparity:** Identified a significant gap between minimum and maximum salaries, with the majority of employees falling within the 20k-110k salary range. This salary range also experienced the highest attrition.
+2. **Salary Disparity:** Identified a significant gap between minimum and maximum salaries, with the majority of employees falling within the 20k-110k salary range. This salary range also experienced the highest attrition.
 
 3. **Job Roles:** Discovered that data scientists, software engineers, sales executives, and sales representatives had the highest attrition rates, indicating dissatisfaction within these specific roles.
 
